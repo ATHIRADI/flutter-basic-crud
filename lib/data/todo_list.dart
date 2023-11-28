@@ -1,6 +1,6 @@
 final List<Map<String, dynamic>> todos = [
   {
-    "todo_item": "Get some ass kicks",
+    "todo_item": "Get some kicks",
     "is_done": false,
     "time": 232325235,
   },
